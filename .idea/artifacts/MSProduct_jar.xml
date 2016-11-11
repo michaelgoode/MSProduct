@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MSProduct:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MSProduct_jar</output-path>
+    <root id="archive" name="MSProduct.jar">
+      <element id="module-output" name="MSProduct" />
+      <element id="library" level="project" name="sqljdbc42" />
+    </root>
+  </artifact>
+</component>
